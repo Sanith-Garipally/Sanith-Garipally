@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Building InApp Code Editor**
 
-- 🌱 I’m currently learning **GSAP**
+- 🌱 I’m currently learning **NestJS**
 
 - 💬 Ask me about **MERN**
 
